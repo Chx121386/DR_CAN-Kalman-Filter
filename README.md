@@ -1,5 +1,7 @@
 MATLAB 二维卡尔曼滤波示例简介
 
+2026-04-02
+
 本项目参照DR CAN的Excel文件实现了一个二维状态卡尔曼滤波（2D Kalman Filter）示例，用于对一维运动目标的位置（position）和速度（speed）进行状态估计。
 
 主要包含：
